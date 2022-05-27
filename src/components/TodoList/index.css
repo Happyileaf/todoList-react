@@ -1,0 +1,36 @@
+/*base*/
+.todo-app {
+  width: 390px;
+  margin: 0 auto;
+  padding: 30px 0;
+}
+
+.todo-app .todo-wrap {
+  padding: 30px 20px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.btn {
+  display: inline-block;
+  padding: 0px 6px;
+  font-size: 14px;
+  line-height: 20px;
+  text-align: center;
+  vertical-align: middle;
+  cursor: pointer;
+  border-radius: 1px;
+}
+
+.btn-danger {
+  color: #fff;
+  background-color: #e73838;
+  border: 1px solid #e73838;
+  border-radius: 3px;
+}
+
+.btn:focus {
+  outline: none;
+}
+
+

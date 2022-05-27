@@ -1,0 +1,13 @@
+/*header*/
+
+.todo-nav ul{
+  /* margin: 0 0; */
+  padding: 0 0;
+}
+.todo-nav ul span{
+  margin: 0 10px;
+  cursor: pointer;
+}
+.todo-nav ul span.checked{
+  color:#1E80FF
+}

@@ -1,0 +1,8 @@
+/*footer*/
+.todo-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  padding: 20px 0 0 0 ;
+}

@@ -1,0 +1,21 @@
+/*item*/
+li {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  height: 36px;
+  line-height: 36px;
+  padding: 0 10px;
+  border-bottom: 1px solid #ddd;
+  position: relative;
+}
+
+li label {
+  flex:1;
+  float: left;
+  cursor: pointer;
+}
+
+li button {
+  float: right;
+}
